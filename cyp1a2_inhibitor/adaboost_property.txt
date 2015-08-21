@@ -1,0 +1,40 @@
+0.757025576255
+0.749440715884
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=80, random_state=None)
+0.763340700979
+0.761521252796
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=150, random_state=None)
+0.757736027787
+0.748993288591
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=80, random_state=None)
+0.759235869908
+0.759731543624
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=140, random_state=None)
+0.757025576255
+0.77225950783
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=90, random_state=None)
+0.766103568045
+0.739149888143
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=200, random_state=None)
+0.765629933691
+0.748545861298
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=200, random_state=None)
+0.765235238396
+0.750782997763
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=190, random_state=None)
+0.760893590148
+0.748545861298
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=160, random_state=None)
+0.764287969687
+0.753467561521
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1,
+          n_estimators=200, random_state=None)
